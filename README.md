@@ -1,2 +1,3 @@
 # hello-world
-My first rep
+My first repository
+Smth new, smth old.
